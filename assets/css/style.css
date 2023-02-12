@@ -88,3 +88,20 @@ h1 {
    border: 1px solid #a40000;
 
 }
+footer{
+   margin-top: 1.5rem;
+   color: #FFF;
+   font-size: 13px;
+   text-align: center;
+}
+footer a{
+   text-decoration: none;
+   color: #e1a0a0;
+   line-height: 2rem;
+   transition:all ease 0.3s;
+   
+}
+footer a:hover{
+   color: #f9d5d5;
+   border-bottom: 2px solid red;
+}
